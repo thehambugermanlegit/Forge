@@ -1,4 +1,4 @@
-![Forge Logo](public/images/logo.png)
+![Forge Logo](public/images/forge.png)
 
 # Forge
 
